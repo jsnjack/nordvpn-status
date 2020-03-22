@@ -1,0 +1,14 @@
+{
+    "extends": "google",
+    "env": {
+        "es6": true
+    },
+    "rules": {
+        // allow async-await
+            "generator-star-spacing": "off",
+            "quotes": ["error", "double"],
+            "max-len": ["error", 140],
+            "require-jsdoc": "off",
+            "indent": ["error", 4]
+        }
+}
