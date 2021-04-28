@@ -3,7 +3,8 @@
   "description": "Show nordvpn status based on http request",
   "name": "nordvpn-status",
   "shell-version": [
-    "3.22"
+    "3.22",
+    "40"
   ],
   "url": "",
   "uuid": "nordvpn-status@jsnjack.gmail.com",
