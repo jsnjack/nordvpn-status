@@ -4,7 +4,8 @@
   "name": "nordvpn-status",
   "shell-version": [
     "3.22",
-    "40"
+    "40",
+    "41"
   ],
   "url": "",
   "uuid": "nordvpn-status@jsnjack.gmail.com",
